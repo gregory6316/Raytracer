@@ -8,7 +8,7 @@
 5. 3 вида примитива(сфера, плоскость, треугольник)
 
 Порядок компиляции:
-cmake −DCMAKE_BUILD_TYPE=Release . .
+cmake −DCMAKE_BUILD_TYPE=Release . .\\
 make
 
 Запуск:
